@@ -1,0 +1,6 @@
+{
+  "/page": "app/page.js",
+  "/challenge/daily/page": "app/challenge/daily/page.js",
+  "/api/validate/route": "app/api/validate/route.js",
+  "/leaderboard/page": "app/leaderboard/page.js"
+}

@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: dark;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  background: theme(colors.mv.bg);
+  color: theme(colors.mv.text);
+  font-family: theme(fontFamily.mono);
+  letter-spacing: theme(letterSpacing.tightish);
+}
+
+::selection {
+  background: theme(colors.mv.lime);
+  color: #0a0a0a;
+}
+
