@@ -1,6 +1,4 @@
 {
-  "/page": "app/page.js",
-  "/challenge/daily/page": "app/challenge/daily/page.js",
-  "/api/validate/route": "app/api/validate/route.js",
-  "/leaderboard/page": "app/leaderboard/page.js"
+  "/not-found": "app/not-found.js",
+  "/page": "app/page.js"
 }
