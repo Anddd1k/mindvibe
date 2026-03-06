@@ -1,3 +1,9 @@
+import { redirect } from "next/navigation";
+
+export default function LegacyLoginRedirectPage() {
+  redirect("/auth/login");
+}
+
 "use client";
 
 import { useState } from "react";

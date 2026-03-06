@@ -54,7 +54,7 @@ export function HeaderNav() {
         Daily
       </ButtonLink>
       <Link
-        href="/login"
+        href="/auth/login"
         className="border border-mv-lime px-4 py-2 text-sm uppercase tracking-wider text-mv-lime hover:bg-mv-lime hover:text-mv-bg"
       >
         Log in
